@@ -25,4 +25,7 @@ Package up files to dist folder
 Publish to S3 (make sure env is up to date)
 `gulp publish`
 
+Run local webserver
+`gulp webserver`
+
 
